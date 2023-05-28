@@ -1,0 +1,36 @@
+.product{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.title{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+
+.img{
+    width: 350px;
+    height: 350px;
+    margin-bottom: 10px;
+}
+
+.price{
+    font-size: 20px;
+}
+
+.description{
+    font-size: 17px;
+    width: 800px;
+    padding: 5px;
+    background-color: #cfcfcf;
+}
+
+.btn{
+    margin: 10px 0;
+    border: 0;
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}

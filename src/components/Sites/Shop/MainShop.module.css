@@ -1,0 +1,14 @@
+.shop_container{
+    width: 1200px; 
+    margin: 0 auto;
+    
+}
+
+.shop_m{
+    background-color: #F5F5F5;
+}
+
+.center{
+    display: flex;
+    margin-top: 50px;
+}

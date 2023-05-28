@@ -1,0 +1,60 @@
+.banner_text {
+    width: 775px;
+    height: 282px;
+    font-family: 'Bebas';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 65px;
+    display: flex;
+    align-items: center;
+    z-index: 2;
+    color: #000000;
+}
+
+.banner {
+    position: relative;
+    margin-left: 20px;
+}
+
+.banner_info {
+    position: relative;
+    z-index: 2;
+}
+
+.banner_subtiitle {
+    width: 524px;
+    height: 95px;
+
+    /* h4 */
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.02em;
+    color: #000000;
+  
+    background-color: #fff;
+}
+
+.bn_images {
+    top: 0;
+    z-index: 1;
+    right: -150px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+}
+
+.bn_img1 {
+    width: 350px;
+    height: 400px;
+}
+
+.bn_img2 {
+    width: 250px;
+    height: 300px;
+}

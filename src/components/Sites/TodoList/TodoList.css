@@ -1,0 +1,58 @@
+.container {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ul {
+  padding: 0;
+}
+
+
+.main {
+  min-height: 900px;
+  background-color: #f7fafc;
+}
+
+.acc {
+  cursor: pointer;
+  margin-right: 5px;
+  width: 15px;
+  height: 15px;
+}
+
+.accclose {
+  cursor: pointer;
+  margin-right: 5px;
+  width: 15px;
+  height: 15px;
+}
+
+
+.wr_block.active {
+  display: none;
+}
+
+.hb_block.active {
+  display: none;
+}
+
+.st_block.active {
+  display: none;
+}
+
+.or_block.active {
+  display: none;
+}
+
+.buy_block.active {
+  display: none;
+}
+
+.contents {
+  display: none;
+}
+
+.contents.active {
+  display: block;
+}
